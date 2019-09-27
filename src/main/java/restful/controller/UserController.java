@@ -11,10 +11,10 @@ import java.util.List;
 
 @RestController
 public class UserController {
-        //1234566
+        //1234566777888
        private List<User> userList = Collections.synchronizedList(new ArrayList<User>());
 
-       //新增
+       //新
 
     @PostMapping("/users")
     @ApiOperation(value = "新增用户",notes ="根据表单新增用户" )
