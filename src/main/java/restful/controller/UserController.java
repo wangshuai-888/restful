@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 public class UserController {
-
+        //1234566
        private List<User> userList = Collections.synchronizedList(new ArrayList<User>());
 
        //新增
