@@ -6,6 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 //你好你好
 //日了狗了
 @SpringBootApplication
+//尼玛个批
 public class RestfulApplication {
 
     public static void main(String[] args) {
