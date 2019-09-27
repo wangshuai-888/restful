@@ -2,7 +2,7 @@ package restful;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
+//加了个注解
 @SpringBootApplication
 public class RestfulApplication {
 
